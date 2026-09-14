@@ -14,6 +14,5 @@ pip install yfinance pandas matplotlib
 jupyter notebook stock_split_explorer.ipynb
 ```
 
-![chart](<img width="1005" height="547" alt="tata_steel_splits" src="https://github.com/user-attachments/assets/b472dac1-440b-4b96-bb8c-01bc3c4718d0" />
-)
+![chart](https://github.com/user-attachments/assets/e15fa599-c6f1-4378-9288-f4579a43dd65)
 
